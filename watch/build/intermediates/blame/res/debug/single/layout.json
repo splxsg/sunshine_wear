@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\017\\AndroidStudioProjects\\Advanced_Android_Development-7\\watch\\build\\intermediates\\res\\merged\\debug\\layout\\alert_dialog_wearable.xml",
+        "source": "C:\\Users\\017\\AndroidStudioProjects\\Advanced_Android_Development-7\\watch\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.2.0\\res\\layout\\alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "C:\\Users\\017\\AndroidStudioProjects\\Advanced_Android_Development-7\\watch\\build\\intermediates\\res\\merged\\debug\\layout\\error_layout.xml",
+        "source": "C:\\Users\\017\\AndroidStudioProjects\\Advanced_Android_Development-7\\watch\\build\\intermediates\\exploded-aar\\com.google.android.support\\wearable\\1.2.0\\res\\layout\\error_layout.xml"
+    }
+]

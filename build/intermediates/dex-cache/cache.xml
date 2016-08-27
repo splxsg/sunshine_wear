@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_02598709c4626d78b8010d9eb1a6ba3cc8f6e436.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_726938fd3db5ecdee21d722d0f34db05d5f27feb.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-7.5.0_26d73e8cd171f403677d31eda408c2ce8ced3797.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.google.android.support\wearable\1.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\com.google.android.support-wearable-1.2.0_4e263e49708970f2a2c033bbb946d36f81f1d73a.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_b6fe3f3728e033ed5c572772a6bd61d1a34e5510.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.5.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-7.5.0_16fb5b33bbced3fdff8e09cca18cc35a0a3ac18a.jar" />
+    </item>
+    <item
+        jar="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\017\AndroidStudioProjects\Advanced_Android_Development-7\watch\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_310d392b046a923a9ccc74d11c1b88182648975c.jar" />
+    </item>
+
+</items>
